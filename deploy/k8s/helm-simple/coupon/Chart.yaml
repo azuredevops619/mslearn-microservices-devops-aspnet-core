@@ -1,3 +1,4 @@
+# Adding comment
 apiVersion: v2
 name: coupon
 description: A Helm chart for Kubernetes
