@@ -1,4 +1,5 @@
-﻿namespace Coupon.API.Controllers
+//Adding comment
+namespace Coupon.API.Controllers
 {
     using System;
     using System.Net;
