@@ -1,4 +1,4 @@
-//Adding comment
+
 namespace Coupon.API.Controllers
 {
     using System;
