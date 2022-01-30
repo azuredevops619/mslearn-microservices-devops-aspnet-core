@@ -1,3 +1,4 @@
+Session diagram is here: https://1drv.ms/u/s!Aksx75nxgXwraxJAz8v1mpLa124?e=RiIBpc
 # eShop-Learn - DevOps
 
 Implement a GitHub Actions pipeline to deploy to AKS from a GitHub repo.
